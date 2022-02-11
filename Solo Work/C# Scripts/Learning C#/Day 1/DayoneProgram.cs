@@ -6,6 +6,7 @@ namespace FirstCscript
     {
         static void Main(string[] args)
         {
+        //lost video stamps, however it will be reported in the other days.
             string oldmate = "Billy";
             string oldmate2 = "Jerrisca";
             Console.WriteLine($"That oldmate {oldmate} has {oldmate.Length} letters in his name ");
